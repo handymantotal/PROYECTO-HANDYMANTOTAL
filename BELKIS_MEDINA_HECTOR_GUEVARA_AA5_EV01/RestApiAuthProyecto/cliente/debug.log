@@ -1,0 +1,24 @@
+🔹 Respuesta JSON cruda de la API: {"status":"success","message":{"token":"5b82546f6e99fff6ee1e6832b75f691fb811bde143bf69dfebb81ed3b79abf88"}}
+🔹 Respuesta decodificada en PHP: Array
+(
+    [status] => success
+    [message] => Array
+        (
+            [token] => 5b82546f6e99fff6ee1e6832b75f691fb811bde143bf69dfebb81ed3b79abf88
+        )
+
+)
+
+✅ Sesión iniciada correctamente en login.php
+🔹 Respuesta JSON cruda de la API: {"status":"success","message":{"token":"fc5bec9ba58d879a37620f1ae8fc0659efb89208dc97196e6716920e262de5dd"}}
+🔹 Respuesta decodificada en PHP: Array
+(
+    [status] => success
+    [message] => Array
+        (
+            [token] => fc5bec9ba58d879a37620f1ae8fc0659efb89208dc97196e6716920e262de5dd
+        )
+
+)
+
+✅ Sesión iniciada correctamente en login.php
