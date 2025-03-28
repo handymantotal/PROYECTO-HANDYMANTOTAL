@@ -1,0 +1,136 @@
+🔹 Método recibido: POST
+🔹 Parámetros GET: Array
+(
+    [action] => login
+)
+
+🔹 Contenido de $_SERVER["REQUEST_URI"]: /RestApiAuthProyecto/servidor/ClientesAPI.php?action=login
+🔹 Contenido de $_GET: Array
+(
+    [action] => login
+)
+
+🔹 Método recibido: POST
+🔹 Parámetros GET en API: Array
+(
+    [action] => login
+)
+
+🔹 Método recibido en API: POST
+🔹 Parámetros GET en API: Array
+(
+    [action] => login
+)
+
+🔹 Parámetros POST en API: {
+    "Correo_electronico": "camila@gmail.com",
+    "Contrasena": "belkis"
+}
+
+🔹 Método recibido en API: POST
+🔹 Contenido de $_SERVER["REQUEST_URI"]: /RestApiAuthProyecto/servidor/ClientesAPI.php?action=login
+🔹 Contenido de $_GET en API: Array
+(
+    [action] => login
+)
+
+🔹 Contenido de $_POST en API: {
+    "Correo_electronico": "camila@gmail.com",
+    "Contrasena": "belkis"
+}
+
+🔹 Acción recibida: login
+🟢 Entrando a iniciarSesion() en ClientesAPI.php
+🔍 Buscando usuario en la base de datos...
+🔹 Método recibido: POST
+🔹 Parámetros GET: Array
+(
+    [action] => login
+)
+
+🔹 Contenido de $_SERVER["REQUEST_URI"]: /RestApiAuthProyecto/servidor/ClientesAPI.php?action=login
+🔹 Contenido de $_GET: Array
+(
+    [action] => login
+)
+
+🔹 Método recibido: POST
+🔹 Parámetros GET en API: Array
+(
+    [action] => login
+)
+
+🔹 Método recibido en API: POST
+🔹 Parámetros GET en API: Array
+(
+    [action] => login
+)
+
+🔹 Parámetros POST en API: {
+    "Correo_electronico": "camila@gmail.com",
+    "Contrasena": "camila"
+}
+
+🔹 Método recibido en API: POST
+🔹 Contenido de $_SERVER["REQUEST_URI"]: /RestApiAuthProyecto/servidor/ClientesAPI.php?action=login
+🔹 Contenido de $_GET en API: Array
+(
+    [action] => login
+)
+
+🔹 Contenido de $_POST en API: {
+    "Correo_electronico": "camila@gmail.com",
+    "Contrasena": "camila"
+}
+
+🔹 Acción recibida: login
+🟢 Entrando a iniciarSesion() en ClientesAPI.php
+🔍 Buscando usuario en la base de datos...
+🔹 Respuesta enviada por la API: {"status":"success","message":{"token":"a0e3af5275bf92ca2ed2076c08961ccfa30922f61ef10729e235f102d5f12515"}}
+🔹 Método recibido: POST
+🔹 Parámetros GET: Array
+(
+    [action] => login
+)
+
+🔹 Contenido de $_SERVER["REQUEST_URI"]: /RestApiAuthProyecto/servidor/ClientesAPI.php?action=login
+🔹 Contenido de $_GET: Array
+(
+    [action] => login
+)
+
+🔹 Método recibido: POST
+🔹 Parámetros GET en API: Array
+(
+    [action] => login
+)
+
+🔹 Método recibido en API: POST
+🔹 Parámetros GET en API: Array
+(
+    [action] => login
+)
+
+🔹 Parámetros POST en API: {"Correo_electronico":"belkyz.yms@gmail.com","Contrasena":"belkis"}
+🔹 Método recibido en API: POST
+🔹 Contenido de $_SERVER["REQUEST_URI"]: /RestApiAuthProyecto/servidor/ClientesAPI.php?action=login
+🔹 Contenido de $_GET en API: Array
+(
+    [action] => login
+)
+
+🔹 Contenido de $_POST en API: {"Correo_electronico":"belkyz.yms@gmail.com","Contrasena":"belkis"}
+🔹 Acción recibida: login
+🟢 Entrando a iniciarSesion() en ClientesAPI.php
+🔍 Buscando usuario en la base de datos...
+🔹 Respuesta enviada por la API: {"status":"success","message":{"token":"cd0e9bf5ccf54e3a7e11676892ed2ce4104fd1fb144c13fc3fa5e57dc15fb029"}}
+🔹 Acción recibida: login
+🟢 Entrando a iniciarSesion() en ClientesAPI.php
+🔍 Buscando usuario en la base de datos...
+🔹 Respuesta enviada por la API: {"status":"success","message":{"token":"1ccf21f9c9a1c5bb4aaf4829c861618b5213728ff612fe155fa182460cb7ca42"}}
+🟢 Entrando a iniciarSesion() en ClientesAPI.php
+🔍 Buscando usuario en la base de datos...
+🔹 Respuesta enviada por la API: {"status":"success","message":{"token":"10e46b164db3ebedb101cce5b40bbdff5743cba559c4583b701a63d84bce702f"}}
+🟢 Entrando a iniciarSesion() en ClientesAPI.php
+🔍 Buscando usuario en la base de datos...
+🔹 Respuesta enviada por la API: {"status":"success","message":{"token":"200401799c0bf4bd1af8c33060317a7c18d824ce5b78cc946d1095891c8c1faa"}}
